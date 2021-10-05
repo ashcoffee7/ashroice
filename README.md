@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashroice!
-- 👀 I’m interested in leveraging cheminformatics, NLP, and deep learning for improving mental health treatment and bridging mental health inequities.
-- 🌱 I’m currently learning molecular docking softwares and structure-based drug design.
-- 💞️ I’m looking to collaborate on technologies to improve mental health treatment access.
+- 👀 I’m interested in leveraging cheminformatics, NLP, and deep learning for improving mental health treatment and bridging health inequities.
+- 🌱 I’m currently learning how to build deep generative networks for dru design.
+- 💞️ I’m looking to collaborate on technologies to improve mental health treatment access or drug discovery.
 - 📫 How to reach me: ashlyn.roice@gmail.com and @ashroice on Instagram and Twitter!
 
 <!---
